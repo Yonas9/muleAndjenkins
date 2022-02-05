@@ -1,1 +1,0 @@
-contionus integration continous delivery
