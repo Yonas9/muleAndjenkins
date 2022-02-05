@@ -1,0 +1,10 @@
+mule:
+  version: "4.4.0"
+anypoint:
+  username: "YoniS"
+  password: "MuleSoft20201"
+cloudhub:
+  enviroment: "Sandbox"
+  app: "helloWorld-API"
+  bg: "Student"
+  worker: "Micro"
